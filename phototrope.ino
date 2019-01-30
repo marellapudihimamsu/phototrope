@@ -1,3 +1,20 @@
+
+/*
+ phototrope 
+
+  This example shows how to create a light following robot
+  
+
+  
+
+  created June 2018
+  by M.Himamsu
+  modified June 2018
+  by M.Himamsu 
+
+
+*/
+
 void setup()
 {  
   Serial.begin(9600);
